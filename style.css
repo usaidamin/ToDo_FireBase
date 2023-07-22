@@ -1,0 +1,14 @@
+.margin{
+    margin-left: 25%;
+    width: 50%;
+    outline: none;
+    border: none;
+    background: #d3d3d3;
+}
+.background {
+    background: #dad299;
+    background: -webkit-linear-gradient(to left, #dad299, #b0dab9);
+    background: linear-gradient(to left, #dad299, #b0dab9);
+    font-family: 'Times New Roman', Times, serif;
+
+}
